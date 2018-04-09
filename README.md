@@ -1,3 +1,3 @@
-# Offline-Market
+# Offline-Marketdata
 
-Stock market downloader for traveling traders
+Stock market data downloader for traveling traders 
